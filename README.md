@@ -1,7 +1,7 @@
 # Data-Analysis
 The following listed projects are a mix of data analysis, data visualisation and machine learning. 
 
-## District School Education Analysis
+## [District School Education Analysis](https://github.com/deepankarpal89/Data-Analysis/blob/master/district_school_education.ipynb)
 Analyse the district and state school education data based on literacy rate, teachers, infrastructure. We also plot the choropleth map for states based on sex ratio, literacy, infrastructure.
 
 ## [New York High Schools](https://github.com/deepankarpal89/Data-Analysis/blob/master/Analysing%2BNew%2BYork%2BHigh%2BSchools.ipynb)
